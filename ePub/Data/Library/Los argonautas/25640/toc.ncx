@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 
+              'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/25640" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="Project Gutenberg EPUB-Maker v0.02 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Los argonautas</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>The Project Gutenberg eBook, Los argonautas, by Vicente Blasco Ibáñez</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@25640@25640-h@25640-h-0.htm#pgepubid00000"/>
+      <navPoint id="np-2" playOrder="2">
+        <navLabel>
+          <text>E-text prepared by Chuck Greif and the Project Gutenberg Online Distributed Proofreading Team (http://www.pgdp.net)</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-0.htm#pgepubid00001"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>Los argonautas</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@25640@25640-h@25640-h-0.htm#pgepubid00002"/>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>Vicente Blasco Ibáñez</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-0.htm#pgepubid00003"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-0.htm#pgepubid00004"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-0.htm#pgepubid00005"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-0.htm#pgepubid00006"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-1.htm#pgepubid00007"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-1.htm#pgepubid00008"/>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-2.htm#pgepubid00009"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-3.htm#pgepubid00010"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-3.htm#pgepubid00011"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-4.htm#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-4.htm#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-5.htm#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@25640@25640-h@25640-h-5.htm#pgepubid00015"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

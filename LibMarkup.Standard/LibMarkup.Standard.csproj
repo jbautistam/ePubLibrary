@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.2</TargetFramework>
+    <RootNamespace>Bau.Libraries.LibMarkupLanguage</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\XML\ve-3844.tmp" />
+  </ItemGroup>
+
+</Project>

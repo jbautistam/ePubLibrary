@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+   <head>
+      <title>Sense and Sensibility by Jane Austen</title>
+      <link rel="stylesheet" href="css/titlepage.css" type="text/css"/>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+      <meta name="EPB-UUID" content="1d17bded-ebf6-4a75-9daa-de0c22b23dd5"/>
+   </head>
+   <body>
+      <div class="body">
+         <div id="frontmatter">
+            <div id="titlepage">
+               <h1 class="part-title">Sense and Sensibility</h1>
+               <h3 class="title-break">***</h3>
+               <h3 class="author">Jane Austen</h3>
+               <div id="docImprint">
+                  <p id="docDate">Published in 1811</p>
+               </div>
+               <h5>
+                  <a href="http://www.epubbooks.com">epubBooks.com</a>
+               </h5>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>

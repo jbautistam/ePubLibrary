@@ -1,0 +1,91 @@
+/*  XML blockout */
+p {
+    margin-top: 0.75em;
+    text-align: justify;
+    margin-bottom: 0.75em;
+    text-indent: 2%
+    }
+h1, h2 {
+    text-align: center;
+    clear: both;
+    margin-top: 15%
+    }
+h1.pg {
+    text-align: center;
+    clear: both;
+    margin-top: 0%
+    }
+h3 {
+    text-align: center
+    }
+.top5 {
+    margin-top: 5%
+    }
+hr.full {
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: solid black;
+    height: 5px
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    background: #fdfdfd;
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-size: large
+    }
+a:link {
+    background-color: #fff;
+    color: blue;
+    text-decoration: none
+    }
+link {
+    background-color: #fff;
+    color: blue;
+    text-decoration: none
+    }
+a:visited {
+    background-color: #fff;
+    color: blue;
+    text-decoration: none
+    }
+a:hover {
+    background-color: #fff;
+    color: red;
+    text-decoration: underline
+    }
+.smcap {
+    font-variant: small-caps;
+    font-family: "Times New Roman", serif;
+    font-size: large
+    }
+.blockquot {
+    margin-left: 5%;
+    margin-right: 10%
+    }
+.c {
+    text-align: center;
+    text-indent: 0%
+    }
+hr.pg {
+    width: 100%;
+    margin-top: 3em;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 4px;
+    border-width: 4px 0 0 0;
+    /* remove all borders except the top one */
+    border-style: solid;
+    border-color: #000;
+    clear: both
+    }
+pre {
+    font-size: 85%
+    }

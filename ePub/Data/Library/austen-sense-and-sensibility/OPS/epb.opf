@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+   <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title>Sense and Sensibility</dc:title>
+      <dc:creator opf:role="aut" opf:file-as="Austen, Jane">Jane Austen</dc:creator>
+      <dc:date opf:event="original-publication">1811</dc:date>
+      <dc:publisher>epubBooks (www.epubbooks.com)</dc:publisher>
+      <dc:date opf:event="epub-publication">2010-04-08</dc:date>
+      <dc:subject>Romance</dc:subject>
+      <dc:source>Project Gutenberg</dc:source>
+      <dc:rights>
+            Provided for free by epubBooks.com. Not for commercial use.
+            This EPUB eBook is released under a Creative Commons (BY-NC-ND/3.0) Licence.
+            Source text and images are in the Public Domain.
+      </dc:rights>
+      <dc:identifier id="EPB-UUID">urn:uuid:1d17bded-ebf6-4a75-9daa-de0c22b23dd5</dc:identifier>
+      <dc:language>en</dc:language>
+   </metadata>
+   <manifest>
+      <!-- Content Documents -->
+      <item id="titlepage" href="title.xml" media-type="application/xhtml+xml"/>
+      <item id="epubbooksinfo" href="epubbooksinfo.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-001" href="chapter-001.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-002" href="chapter-002.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-003" href="chapter-003.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-004" href="chapter-004.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-005" href="chapter-005.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-006" href="chapter-006.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-007" href="chapter-007.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-008" href="chapter-008.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-009" href="chapter-009.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-010" href="chapter-010.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-011" href="chapter-011.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-012" href="chapter-012.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-013" href="chapter-013.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-014" href="chapter-014.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-015" href="chapter-015.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-016" href="chapter-016.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-017" href="chapter-017.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-018" href="chapter-018.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-019" href="chapter-019.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-020" href="chapter-020.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-021" href="chapter-021.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-022" href="chapter-022.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-023" href="chapter-023.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-024" href="chapter-024.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-025" href="chapter-025.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-026" href="chapter-026.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-027" href="chapter-027.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-028" href="chapter-028.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-029" href="chapter-029.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-030" href="chapter-030.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-031" href="chapter-031.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-032" href="chapter-032.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-033" href="chapter-033.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-034" href="chapter-034.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-035" href="chapter-035.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-036" href="chapter-036.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-037" href="chapter-037.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-038" href="chapter-038.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-039" href="chapter-039.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-040" href="chapter-040.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-041" href="chapter-041.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-042" href="chapter-042.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-043" href="chapter-043.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-044" href="chapter-044.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-045" href="chapter-045.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-046" href="chapter-046.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-047" href="chapter-047.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-048" href="chapter-048.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-049" href="chapter-049.xml" media-type="application/xhtml+xml"/>
+      <item id="chapter-050" href="chapter-050.xml" media-type="application/xhtml+xml"/>
+
+      <!-- CSS Style Sheets -->
+      <item id="title-page-css" href="css/titlepage.css" media-type="text/css"/>
+      <item id="main-css" href="css/book.css" media-type="text/css"/>
+
+      <!-- Images -->
+      <item id="epubbooks-logo" href="images/epubbooks-logo.png" media-type="image/png"/>
+
+      <!-- NCX -->
+      <item id="ncx" href="epb.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="epubbooksinfo" linear="yes"/>
+      <itemref idref="chapter-001" linear="yes"/>
+      <itemref idref="chapter-002" linear="yes"/>
+      <itemref idref="chapter-003" linear="yes"/>
+      <itemref idref="chapter-004" linear="yes"/>
+      <itemref idref="chapter-005" linear="yes"/>
+      <itemref idref="chapter-006" linear="yes"/>
+      <itemref idref="chapter-007" linear="yes"/>
+      <itemref idref="chapter-008" linear="yes"/>
+      <itemref idref="chapter-009" linear="yes"/>
+      <itemref idref="chapter-010" linear="yes"/>
+      <itemref idref="chapter-011" linear="yes"/>
+      <itemref idref="chapter-012" linear="yes"/>
+      <itemref idref="chapter-013" linear="yes"/>
+      <itemref idref="chapter-014" linear="yes"/>
+      <itemref idref="chapter-015" linear="yes"/>
+      <itemref idref="chapter-016" linear="yes"/>
+      <itemref idref="chapter-017" linear="yes"/>
+      <itemref idref="chapter-018" linear="yes"/>
+      <itemref idref="chapter-019" linear="yes"/>
+      <itemref idref="chapter-020" linear="yes"/>
+      <itemref idref="chapter-021" linear="yes"/>
+      <itemref idref="chapter-022" linear="yes"/>
+      <itemref idref="chapter-023" linear="yes"/>
+      <itemref idref="chapter-024" linear="yes"/>
+      <itemref idref="chapter-025" linear="yes"/>
+      <itemref idref="chapter-026" linear="yes"/>
+      <itemref idref="chapter-027" linear="yes"/>
+      <itemref idref="chapter-028" linear="yes"/>
+      <itemref idref="chapter-029" linear="yes"/>
+      <itemref idref="chapter-030" linear="yes"/>
+      <itemref idref="chapter-031" linear="yes"/>
+      <itemref idref="chapter-032" linear="yes"/>
+      <itemref idref="chapter-033" linear="yes"/>
+      <itemref idref="chapter-034" linear="yes"/>
+      <itemref idref="chapter-035" linear="yes"/>
+      <itemref idref="chapter-036" linear="yes"/>
+      <itemref idref="chapter-037" linear="yes"/>
+      <itemref idref="chapter-038" linear="yes"/>
+      <itemref idref="chapter-039" linear="yes"/>
+      <itemref idref="chapter-040" linear="yes"/>
+      <itemref idref="chapter-041" linear="yes"/>
+      <itemref idref="chapter-042" linear="yes"/>
+      <itemref idref="chapter-043" linear="yes"/>
+      <itemref idref="chapter-044" linear="yes"/>
+      <itemref idref="chapter-045" linear="yes"/>
+      <itemref idref="chapter-046" linear="yes"/>
+      <itemref idref="chapter-047" linear="yes"/>
+      <itemref idref="chapter-048" linear="yes"/>
+      <itemref idref="chapter-049" linear="yes"/>
+      <itemref idref="chapter-050" linear="yes"/>
+   </spine>
+</package>
